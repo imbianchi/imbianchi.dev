@@ -1,2 +1,2 @@
-<a href="https://joaobianchi.me/" target="_blank">joaobianchi.me</a>
+[joaobianchi.me](https://joaobianchi.me)
 Resume online.
